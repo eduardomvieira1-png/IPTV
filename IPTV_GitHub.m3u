@@ -1,239 +1,299 @@
 #EXTM3U
-#EXTINF:0,Cartoon Network HD
+#EXTINF:0,Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a087/index.m3u8
 
-#EXTINF:0,AXN HD
+#EXTINF:0,AXN
 http://45.185.11.126:8000/play/a0ao/index.m3u8
 
-#EXTINF:0,Adult Swim HD
+#EXTINF:0,Adult Swim
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
 
-#EXTINF:0,Band Sports HD
+#EXTINF:0,Band Sports
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05o/index.m3u8
 
-#EXTINF:0,Canal Sony HD
+#EXTINF:0,Canal Sony 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0an/index.m3u8
 
-#EXTINF:0,Cartoonito HD
+#EXTINF:0,Cartoonito
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ae/index.m3u8
 
-#EXTINF:0,Cinemax HD
+#EXTINF:0,Cinemax 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a081/index.m3u8
 
-#EXTINF:0,Combate HD
+#EXTINF:0,Combate
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a073/index.m3u8
 
-
-#EXTINF:0,Disc. Home & Health HD
+#EXTINF:0,Disc. Home & Health
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07y/index.m3u8
 
-#EXTINF:0,Discovery Channel HD
+#EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ac/index.m3u8
 
-#EXTINF:0,Discovery Kids HD
+#EXTINF:0,Discovery Kids 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ad/index.m3u8
 
-#EXTINF:0,Discovery Science HD
+#EXTINF:0,Discovery Science 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a077/index.m3u8
 
-#EXTINF:0,Discovery Theater HD
+#EXTINF:0,Discovery Theater 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a085/index.m3u8
 
-#EXTINF:0,Discovery Turbo HD
+#EXTINF:0,Discovery Turbo 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07z/index.m3u8
 
-#EXTINF:0,Discovery World HD
+#EXTINF:0,Discovery World 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a086/index.m3u8
 
-#EXTINF:0,ESPN 4 HD
+#EXTINF:0,ESPN 4 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05m/index.m3u8
 
-#EXTINF:0,ESPN 5 HD
+#EXTINF:0,ESPN 5 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05n/index.m3u8
 
-#EXTINF:0,ESPN 6 HD
+#EXTINF:0,ESPN 6 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a084/index.m3u8
 
-#EXTINF:0,Food Network HD
+#EXTINF:0,Food Network 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06j/index.m3u8
 
-#EXTINF:0,GE TV HD
+#EXTINF:0,GE TV 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08v/index.m3u8
 
-#EXTINF:0,GNT HD
+#EXTINF:0,GNT 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a079/index.m3u8
 
-#EXTINF:0,GloboNews HD
+#EXTINF:0,GloboNews 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08d/index.m3u8
 
-#EXTINF:0,Gloob HD
+#EXTINF:0,Gloob 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07v/index.m3u8
 
-#EXTINF:0,Gloobinho HD
+#EXTINF:0,Gloobinho 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a071/index.m3u8
 
-#EXTINF:0,HBO Family HD
+#EXTINF:0,HBO Family 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08q/index.m3u8
 
-#EXTINF:0,HBO HD
+#EXTINF:0,HBO 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08n/index.m3u8
 
-#EXTINF:0,HBO MUNDI HD
+#EXTINF:0,HBO MUNDI 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a082/index.m3u8
 
-#EXTINF:0,HBO POP HD
+#EXTINF:0,HBO POP 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08s/index.m3u8
 
-#EXTINF:0,HBO Signature HD
+#EXTINF:0,HBO Signature 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08r/index.m3u8
 
-#EXTINF:0,HBO XTREME HD
+#EXTINF:0,HBO XTREME 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a083/index.m3u8
 
-#EXTINF:0,HBO+ HD
+#EXTINF:0,HBO+ 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
 
-#EXTINF:0,HBO2 HD
+#EXTINF:0,HBO2 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08o/index.m3u8
 
-#EXTINF:0,History HD
+#EXTINF:0,History 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0al/index.m3u8
 
-#EXTINF:0,ID HD
+#EXTINF:0,ID 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a089/index.m3u8
-#EXTINF:0,Lifetime HD
+
+#EXTINF:0,Lifetime 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06l/index.m3u8
-#EXTINF:0,Megapix HD
+
+#EXTINF:0,Megapix
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a057/index.m3u8
-#EXTINF:0,OFF HD
+
+#EXTINF:0,OFF 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07t/index.m3u8
+
 #EXTINF:0,Paramount+ 4
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0aq/index.m3u8
-#EXTINF:0,Premiere 2 HD
+
+#EXTINF:0,Premiere 2
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06h/index.m3u8
-#EXTINF:0,Premiere 3 HD
+
+#EXTINF:0,Premiere 3
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0av/index.m3u8
-#EXTINF:0,Premiere 4 HD
+
+#EXTINF:0,Premiere 4
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07b/index.m3u8
-#EXTINF:0,Premiere 5 HD
+
+#EXTINF:0,Premiere 5
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07c/index.m3u8
-#EXTINF:0,Premiere 6 HD
+
+#EXTINF:0,Premiere 6
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05j/index.m3u8
-#EXTINF:0,Premiere 7 HD
+
+#EXTINF:0,Premiere 7
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05k/index.m3u8
-#EXTINF:0,Premiere 8 HD
+
+#EXTINF:0,Premiere 8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05l/index.m3u8
-#EXTINF:0,Premiere Clubes HD
+
+#EXTINF:0,Premiere Clubes
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06g/index.m3u8
-#EXTINF:0,Record News HD
+
+#EXTINF:0,Record News
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a2/index.m3u8
-#EXTINF:0,SBT News HD
+
+#EXTINF:0,SBT News
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a7/index.m3u8
-#EXTINF:0,Space HD
+
+#EXTINF:0,Space
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08b/index.m3u8
-#EXTINF:0,Studio Universal HD
+
+#EXTINF:0,Studio Universal
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06o/index.m3u8
-#EXTINF:0,TLC HD
+
+#EXTINF:0,TLC
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0aa/index.m3u8
-#EXTINF:0,TNT Novelas HD
+
+#EXTINF:0,TNT Novelas
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a088/index.m3u8
-#EXTINF:0,TNT Sports HD
+
+#EXTINF:0,TNT Sports
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0bi/index.m3u8
-#EXTINF:0,TNT SØries HD
+
+#EXTINF:0,TNT Series
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08a/index.m3u8
-#EXTINF:0,Telecine Action HD
+
+#EXTINF:0,Telecine Action 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a058/index.m3u8
-#EXTINF:0,Telecine Cult HD
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a05a/index.m3u8
-#EXTINF:0,Telecine Fun HD
+
+#EXTINF:0,Telecine Fun 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a059/index.m3u8
-#EXTINF:0,Telecine Pipoca HD
+
+#EXTINF:0,Telecine Pipoca 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08g/index.m3u8
-#EXTINF:0,Telecine Premium HD
+
+#EXTINF:0,Telecine Premium 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08e/index.m3u8
-#EXTINF:0,Telecine Touch HD
+
+#EXTINF:0,Telecine Touch 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08f/index.m3u8
-#EXTINF:0,Universal Premiere HD
+
+#EXTINF:0,Universal Premiere 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08m/index.m3u8
-#EXTINF:0,Universal Reality HD
+
+#EXTINF:0,Universal Reality 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08c/index.m3u8
-#EXTINF:0,Universal TV HD
+
+#EXTINF:0,Universal TV 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0af/index.m3u8
-#EXTINF:0,Warner Channel HD
+
+#EXTINF:0,Warner Channel 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0am/index.m3u8
-#EXTINF:0,Woohoo HD
+
+#EXTINF:0,Woohoo 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a075/index.m3u8
-#EXTINF:0,sportv HD
+
+#EXTINF:0,Sportv
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05g/index.m3u8
-#EXTINF:0,sportv2 HD
+
+#EXTINF:0,Sportv2 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05f/index.m3u8
-#EXTINF:0,sportv3 HD
+
+#EXTINF:0,Sportv3 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
+#EXTINF:0,Comedy Central
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://45.177.114.114/HISTORY_2/index.m3u8
+
+#EXTINF:0,Nickelodeon
+#EXTVLCOPT:network-caching=1000
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+#EXTINF:0,Nickelodeon Toons
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
+
+#EXTINF:0,Nickelodeon Teens
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
+
+#EXTINF:0,Play TV
+#EXTVLCOPT:network-caching=1000
+http://45.162.64.114/PLAY_TV/index.m3u8
+
+#EXTINF:0,Pluto TV Anime
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+
+#EXTINF:0,Pluto TV Anime Acao
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
