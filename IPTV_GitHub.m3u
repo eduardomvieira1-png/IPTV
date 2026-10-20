@@ -30,6 +30,10 @@ http://45.185.11.126:8000/play/a081/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a073/index.m3u8
 
+#EXTINF:0,TV Cultura
+#EXTVLCOPT:network-caching=1000
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+
 #EXTINF:0,Disc. Home & Health HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07y/index.m3u8
@@ -235,3 +239,4 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 #EXTINF:0,sportv3 HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06v/index.m3u8
+
