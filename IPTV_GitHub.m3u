@@ -170,17 +170,33 @@ http://45.185.11.126:8000/play/a071/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08q/index.m3u8
 
+#EXTINF:0,HBO Family FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514113.ts
+
 #EXTINF:0,HBO 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08n/index.m3u8
+
+#EXTINF:0,HBO FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514107.ts
 
 #EXTINF:0,HBO MUNDI 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a082/index.m3u8
 
+#EXTINF:0,HBO MUNDI FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514116.ts
+
 #EXTINF:0,HBO POP 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08s/index.m3u8
+
+#EXTINF:0,HBO POP FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514122.ts
 
 #EXTINF:0,HBO Signature 
 #EXTVLCOPT:network-caching=1000
@@ -194,9 +210,17 @@ http://45.185.11.126:8000/play/a083/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08p/index.m3u8
 
+#EXTINF:0,HBO+ 
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514119.ts
+
 #EXTINF:0,HBO2 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08o/index.m3u8
+
+#EXTINF:0,HBO2 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/514110.ts
 
 #EXTINF:0,History 
 #EXTVLCOPT:network-caching=1000
@@ -294,21 +318,41 @@ http://45.185.11.126:8000/play/a08a/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a058/index.m3u8
 
+#EXTINF:0,Telecine Action FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298325.ts
+
 #EXTINF:0,Telecine Fun 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a059/index.m3u8
+
+#EXTINF:0,Telecine Fun FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298337.ts
 
 #EXTINF:0,Telecine Pipoca 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08g/index.m3u8
 
+#EXTINF:0,Telecine Pipoca FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298343.ts
+
 #EXTINF:0,Telecine Premium 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08e/index.m3u8
 
+#EXTINF:0,Telecine Premium FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298349.ts
+
 #EXTINF:0,Telecine Touch 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08f/index.m3u8
+
+#EXTINF:0,Telecine Touch FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298355.ts
 
 #EXTINF:0,Universal Premiere 
 #EXTVLCOPT:network-caching=1000
@@ -402,18 +446,13 @@ http://64.31.23.207:80/96795792/50165825/324387.ts
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298056.ts
 
-
 #EXTINF:0,Megapix FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298164.ts
 
-
-
 #EXTINF:0,Sport TV 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298176.ts
-
-
 
 #EXTINF:0,Paramount+ (JOGO 1)
 #EXTVLCOPT:network-caching=1000
@@ -502,4 +541,36 @@ http://64.31.23.207:80/96795792/50165825/3460227.ts
 #EXTINF:0,Premiere 8 FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/3460230.ts
+
+#EXTINF:0,MAX 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460233.ts
+
+#EXTINF:0,MAX 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460234.ts
+
+#EXTINF:0,MAX 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460235.ts
+
+#EXTINF:0,MAX 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460236.ts
+
+#EXTINF:0,MAX 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460237.ts
+
+#EXTINF:0,MAX 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460238.ts
+
+#EXTINF:0,A&E FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/518548.ts
+
+#EXTINF:0,TLC FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/518586.ts
 
