@@ -1,38 +1,74 @@
 #EXTM3U
+
 #EXTINF:0,Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a087/index.m3u8
 
+#EXTINF:0,Cartoon Network FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/1882622.ts
+
 #EXTINF:0,AXN
 http://45.185.11.126:8000/play/a0ao/index.m3u8
+
+#EXTINF:0,AXN FHD
+http://64.31.23.207:80/96795792/50165825/5298146.ts
 
 #EXTINF:0,Adult Swim
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06m/index.m3u8
 
+#EXTINF:0,Adult Swim FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/518592.ts
+
 #EXTINF:0,Band Sports
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05o/index.m3u8
+
+#EXTINF:0,Band Sports FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460152.ts
 
 #EXTINF:0,Canal Sony 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0an/index.m3u8
 
+#EXTINF:0,Canal Sony FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298170.ts
+
 #EXTINF:0,Cartoonito
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ae/index.m3u8
+
+#EXTINF:0,Cartoonito FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/1882631.ts
 
 #EXTINF:0,Cinemax 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a081/index.m3u8
 
+#EXTINF:0,Cinemax FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/5298158.ts
+
 #EXTINF:0,Combate
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a073/index.m3u8
 
+#EXTINF:0,Combate FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/297542.ts
+
 #EXTINF:0,Disc. Home & Health
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07y/index.m3u8
+
+#EXTINF:0,Disc. Home & Health FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/297939.ts
 
 #EXTINF:0,Discovery Channel
 #EXTVLCOPT:network-caching=1000
@@ -42,9 +78,17 @@ http://45.185.11.126:8000/play/a0ac/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0ad/index.m3u8
 
+#EXTINF:0,Discovery Kids FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/297945.ts
+
 #EXTINF:0,Discovery Science 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a077/index.m3u8
+
+#EXTINF:0,Discovery Science FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/297951.ts
 
 #EXTINF:0,Discovery Theater 
 #EXTVLCOPT:network-caching=1000
@@ -54,21 +98,49 @@ http://45.185.11.126:8000/play/a085/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a07z/index.m3u8
 
+#EXTINF:0,Discovery Turbo 
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/297942.ts
+
 #EXTINF:0,Discovery World 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a086/index.m3u8
+
+#EXTINF:0,ESPN FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460182.ts
+
+#EXTINF:0,ESPN 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460185.ts
+
+#EXTINF:0,ESPN 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460188.ts
 
 #EXTINF:0,ESPN 4 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05m/index.m3u8
 
+#EXTINF:0,ESPN 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460191.ts
+
 #EXTINF:0,ESPN 5 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a05n/index.m3u8
 
+#EXTINF:0,ESPN 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460194.ts
+
 #EXTINF:0,ESPN 6 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a084/index.m3u8
+
+#EXTINF:0,ESPN 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460197.ts
 
 #EXTINF:0,Food Network 
 #EXTVLCOPT:network-caching=1000
@@ -129,6 +201,10 @@ http://45.185.11.126:8000/play/a08o/index.m3u8
 #EXTINF:0,History 
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0al/index.m3u8
+
+#EXTINF:0,History FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296613.ts
 
 #EXTINF:0,ID 
 #EXTVLCOPT:network-caching=1000
@@ -326,18 +402,104 @@ http://64.31.23.207:80/96795792/50165825/324387.ts
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298056.ts
 
-#EXTINF:0,Cartoon Network FHD
-#EXTVLCOPT:network-caching=1000
-http://64.31.23.207:80/96795792/50165825/1882622.ts
 
 #EXTINF:0,Megapix FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298164.ts
 
-#EXTINF:0,Sony FHD
-#EXTVLCOPT:network-caching=1000
-http://64.31.23.207:80/96795792/50165825/5298170.ts
 
-#EXTINF:0,Space FHD
+
+#EXTINF:0,Sport TV 2 FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298176.ts
+
+
+
+#EXTINF:0,Paramount+ (JOGO 1)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460273.ts
+
+#EXTINF:0,Paramount+ (JOGO 2)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460274.ts
+
+#EXTINF:0,Paramount+ (JOGO 3)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460275.ts
+
+#EXTINF:0,Paramount+ (JOGO 4)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460276.ts
+
+#EXTINF:0,Paramount+ (JOGO 5)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460277.ts
+
+#EXTINF:0,Paramount+ (JOGO 6)
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460278.ts
+
+#EXTINF:0,Disney+ 01
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296915.ts
+
+#EXTINF:0,Disney+ 02
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296916.ts
+
+#EXTINF:0,Disney+ 03
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296917.ts
+
+#EXTINF:0,Disney+ 04
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296918.ts
+
+#EXTINF:0,Disney+ 05
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296919.ts
+
+#EXTINF:0,Disney+ 06
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296920.ts
+
+#EXTINF:0,Disney+ 07
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296921.ts
+
+#EXTINF:0,Disney+ 08
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/296922.ts
+
+#EXTINF:0,Premiere 1 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460211.ts
+
+#EXTINF:0,Premiere 2 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460213.ts
+
+#EXTINF:0,Premiere 3 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460215.ts
+
+#EXTINF:0,Premiere 4 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460218.ts
+
+#EXTINF:0,Premiere 5 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460221.ts
+
+#EXTINF:0,Premiere 6 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460224.ts
+
+#EXTINF:0,Premiere 7 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460227.ts
+
+#EXTINF:0,Premiere 8 FHD
+#EXTVLCOPT:network-caching=1000
+http://64.31.23.207:80/96795792/50165825/3460230.ts
+
