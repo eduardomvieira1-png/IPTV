@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml" url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml,https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml,https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz"
 # Playlist com EPG XMLTV, IDs, logos e categorias.
 #EXTM3U
 
@@ -400,11 +400,11 @@ http://45.177.114.114/HISTORY_2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeontoons" tvg-name="Nickelodeon Toons" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nickelodeon Toons
+#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-name="Nickelodeon Toons" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png",Nickelodeon Toons
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="nickelodeonteens" tvg-name="Nickelodeon Teens" group-title="Infantil" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Teens
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="Nickelodeon Teens" group-title="Infantil" tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon Teens
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 
@@ -412,11 +412,11 @@ https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.162.64.114/PLAY_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="plutotvanime" tvg-name="Pluto TV Anime" group-title="Entretenimento" tvg-logo="https://i.imgur.com/JVEfXbi.png",Pluto TV Anime
+#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-name="Pluto TV Anime" group-title="Entretenimento" tvg-logo="https://i.imgur.com/JVEfXbi.png",Pluto TV Anime
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
 
-#EXTINF:-1 tvg-id="plutotvanimeacao" tvg-name="Pluto TV Anime Acao" group-title="Entretenimento" tvg-logo="https://i.imgur.com/JVEfXbi.png",Pluto TV Anime Acao
+#EXTINF:-1 tvg-id="604b79c558393100078faeef" tvg-name="Pluto TV Anime Acao" group-title="Entretenimento" tvg-logo="https://i.imgur.com/JVEfXbi.png",Pluto TV Anime Acao
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 
@@ -424,11 +424,11 @@ https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTVLCOPT:network-caching=1000
 http://200.77.176.130:8000/udp/224.0.0.4:49152
 
-#EXTINF:-1 tvg-id="tv-globo" tvg-name="Globo" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png",Globo
+#EXTINF:-1 tvg-id="GloboSP.br" tvg-name="Globo" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Globo_2024.svg/960px-Globo_2024.svg.png",Globo
 #EXTVLCOPT:network-caching=1000
 https://cdn-sp2.satlabscloud.com.br/RBS_HD/index.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
 
-#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" group-title="Entretenimento" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT
+#EXTINF:-1 tvg-id="SBTSP.br" tvg-name="SBT" group-title="Entretenimento" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/324290.ts
 
@@ -444,7 +444,7 @@ http://64.31.23.207:80/96795792/50165825/324371.ts
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/324387.ts
 
-#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="Rede TV" group-title="Geral" tvg-logo="https://i.imgur.com/ZJgD38F.png",Rede TV
+#EXTINF:-1 tvg-id="RedeTVSP.br" tvg-name="Rede TV" group-title="Geral" tvg-logo="https://i.imgur.com/ZJgD38F.png",Rede TV
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298056.ts
 
