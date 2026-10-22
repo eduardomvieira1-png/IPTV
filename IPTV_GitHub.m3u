@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz"
-# Playlist com EPG XMLTV, IDs, logos e categorias.
-#EXTM3U
+
 
 #EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/960px-Cartoon_Network_HD_logo.svg.png",Cartoon Network
 #EXTVLCOPT:network-caching=1000
