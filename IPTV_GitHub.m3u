@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz"
-
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml,https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz" url-tvg="https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/claro.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/vivoplay.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/globo.xml,https://raw.githubusercontent.com/limaalef/BrazilTVEPG/main/epg.xml,https://iptv-epg.org/files/epg-br.xml,https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/PlutoTV/all.xml.gz"
+# Playlist com EPG XMLTV, IDs, logos e categorias.
 
 #EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/960px-Cartoon_Network_HD_logo.svg.png",Cartoon Network
 #EXTVLCOPT:network-caching=1000
@@ -387,7 +387,7 @@ http://45.185.11.126:8000/play/a05f/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a06v/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.br" tvg-name="Comedy Central" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central" group-title="Entretenimento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",Comedy Central
 #EXTVLCOPT:network-caching=1000
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 
@@ -511,7 +511,7 @@ http://64.31.23.207:80/96795792/50165825/296921.ts
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/296922.ts
 
-#EXTINF:-1 tvg-id="PREMIERE CLUBES HD" tvg-name="Premiere Clubes HD" group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",Premiere Clubes
+#EXTINF:-1 tvg-id="Premiere " tvg-name="Premiere 1" group-title="Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/960px-Premiere_(2017)_logo.png",Premiere 1 FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/3460211.ts
 
@@ -574,6 +574,4 @@ http://64.31.23.207:80/96795792/50165825/518548.ts
 #EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC" group-title="Documentarios" tvg-logo="https://i.imgur.com/w7W9vqT.png",TLC FHD
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/518586.ts
-
-
 
