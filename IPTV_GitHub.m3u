@@ -303,7 +303,7 @@ http://45.185.11.126:8000/play/a0a2/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0a7/index.m3u8
 
-#EXTINF:-1 tvg-id="SPACE HD" tvg-name="Space" group-title="Filmes e series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space" group-title="Filmes e series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space HD
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a08b/index.m3u8
 
