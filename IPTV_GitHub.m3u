@@ -25,7 +25,7 @@ http://64.31.23.207:80/96795792/50165825/5298146.ts
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="Band" group-title="Geral" tvg-logo="https://i.imgur.com/1r5T6Pw.png",Band
 #EXTVLCOPT:network-caching=1000
-http://170.84.165.204/BAND_HD/index.m3u8
+http://governosptx.org:80/3llohwk4g9/kwf099q30o/107926.ts
 
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://i.imgur.com/EuPvzJe.png",Band Sports
 #EXTVLCOPT:network-caching=1000
