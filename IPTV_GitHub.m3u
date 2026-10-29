@@ -25,8 +25,7 @@ http://64.31.23.207:80/96795792/50165825/5298146.ts
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="Band" group-title="Geral" tvg-logo="https://i.imgur.com/1r5T6Pw.png",Band
 #EXTVLCOPT:network-caching=1000
-http://64.31.23.207:80/96795792/50165825/324371.ts
-
+http://170.84.165.204/BAND_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND SPORTS HD" tvg-name="Band Sports" group-title="Esportes" tvg-logo="https://i.imgur.com/EuPvzJe.png",Band Sports
 #EXTVLCOPT:network-caching=1000
@@ -44,9 +43,6 @@ http://45.185.11.126:8000/play/a0an/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://64.31.23.207:80/96795792/50165825/5298170.ts
 
-#EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network FHD" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/960px-Cartoon_Network_HD_logo.svg.png",Cartoon Network
-#EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a087/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/960px-Cartoon_Network_HD_logo.svg.png",Cartoon Network FHD
 #EXTVLCOPT:network-caching=1000
