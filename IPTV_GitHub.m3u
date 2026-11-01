@@ -21,7 +21,7 @@ http://64.31.23.207:80/96795792/50165825/518592.ts
 http://45.185.11.126:8000/play/a0ao/index.m3u8
 
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Filmes e series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png",AXN FHD
-http://64.31.23.207:80/96795792/50165825/5298146.ts
+http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="Band" group-title="Geral" tvg-logo="https://i.imgur.com/1r5T6Pw.png",Band
 #EXTVLCOPT:network-caching=1000
@@ -41,8 +41,7 @@ http://45.185.11.126:8000/play/a0an/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY CHANNEL" tvg-name="Canal Sony" group-title="Filmes e series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png",Canal Sony FHD
 #EXTVLCOPT:network-caching=1000
-http://64.31.23.207:80/96795792/50165825/5298170.ts
-
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="CARTOON HD" tvg-name="Cartoon Network" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_HD_logo.svg/960px-Cartoon_Network_HD_logo.svg.png",Cartoon Network FHD
 #EXTVLCOPT:network-caching=1000
@@ -290,7 +289,7 @@ http://64.31.23.207:80/96795792/50165825/514110.ts
 
 #EXTINF:-1 tvg-id="HISTORY" tvg-name="History" group-title="Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png",History
 #EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0al/index.m3u8
+http://170.83.16.50/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="HISTORY 2" tvg-name="History 2" group-title="Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png",History 2
 #EXTVLCOPT:network-caching=1000
