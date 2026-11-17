@@ -472,7 +472,7 @@ http://200.77.176.130:8000/udp/224.0.0.4:49152
 
 #EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="Record News" group-title="Noticias" tvg-logo="https://i.imgur.com/HZDRG0K.png",Record News
 #EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a2/index.m3u8
+http://170.83.16.50/RECORD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="RedeTVSP.br" tvg-name="Rede TV" group-title="Geral" tvg-logo="https://i.imgur.com/ZJgD38F.png",Rede TV
 #EXTVLCOPT:network-caching=1000
@@ -484,7 +484,7 @@ http://64.31.23.207:80/96795792/50165825/324290.ts
 
 #EXTINF:-1 tvg-id="SBT NEWS HD" tvg-name="SBT News" group-title="Noticias" tvg-logo="https://i.imgur.com/rmNDylW.png",SBT News
 #EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a0a7/index.m3u8
+https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="Space" group-title="Filmes e series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/960px-SpaceLogo.svg.png",Space
 #EXTVLCOPT:network-caching=1000
@@ -578,6 +578,9 @@ http://45.185.11.126:8000/play/a08a/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.185.11.126:8000/play/a0bi/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Religioso",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CULTURA HD" tvg-name="TV Cultura" group-title="Entretenimento" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png",TV Cultura
 #EXTVLCOPT:network-caching=1000
 http://170.83.16.50/CULTURA/index.m3u8
@@ -600,4 +603,4 @@ http://45.185.11.126:8000/play/a0am/index.m3u8
 
 #EXTINF:-1 tvg-id="WOOHOO HD" tvg-name="Woohoo" group-title="Entretenimento" tvg-logo="https://i.imgur.com/me622pa.png",Woohoo
 #EXTVLCOPT:network-caching=1000
-http://45.185.11.126:8000/play/a075/index.m3u8
+http://170.83.16.50/WOOHOO/index.m3u8
